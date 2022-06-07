@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PITV420
-- 👀 I’m interested in electronics, embedded systems
+- 👀 I’m interested in electronics, embedded systems,
       audio and digital signal processing
 - 🌱 I’m currently learning Rust ❤️
 - 💞️ I’m looking to collaborate on ...
