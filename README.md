@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Rust ❤️
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
-      piotr.cieslik@humtap.com
+      piotr.cieslik@avid.com
 
 <!---
 PITV420/PITV420 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
